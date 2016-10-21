@@ -1,0 +1,35 @@
+Roque Menor
+e2
+e4
+a7
+a6
+f1
+a6
+b7
+a6
+g1
+h3
+a6
+a5
+e1
+g1
+
+Roque  Maior
+d2
+d4
+a7
+a5
+c1
+g5
+a5
+a4
+d1
+d3
+a8
+a7
+b1
+a3
+b8
+c6
+e1
+c1
